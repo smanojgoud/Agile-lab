@@ -3,7 +3,7 @@ import java.util.*;
 import java.util.Scanner;
 
 
-public class agile1{
+public class Agile{
     public static void main (String args[]){
         Scanner scanner = new Scanner(System.in);
         System.out.println("Hello Techies, Welcome to WEB\n");
